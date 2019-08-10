@@ -1,0 +1,1 @@
+javac -d .\out -sourcepath src\main -cp out\ src\main\com\calculadora\app\Calculadora.java

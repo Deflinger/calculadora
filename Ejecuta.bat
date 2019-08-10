@@ -1,0 +1,1 @@
+java -cp .\out com.calculadora.app.Calculadora
